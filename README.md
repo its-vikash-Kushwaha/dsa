@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0210-course-schedule-ii) |
+| [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0210-course-schedule-ii) |
+| [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
+| [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
