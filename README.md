@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0210-course-schedule-ii) |
 | [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -112,5 +115,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
