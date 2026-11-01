@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [1254-number-of-closed-islands](https://github.com/its-vikash-Kushwaha/dsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
