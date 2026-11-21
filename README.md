@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -158,9 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
