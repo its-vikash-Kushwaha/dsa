@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
