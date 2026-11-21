@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Tree
