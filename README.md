@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0461-hamming-distance) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
