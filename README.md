@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
