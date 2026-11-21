@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Divide and Conquer
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
