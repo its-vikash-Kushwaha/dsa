@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0338-counting-bits) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
