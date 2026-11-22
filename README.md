@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 ## Matrix
