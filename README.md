@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0338-counting-bits) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
