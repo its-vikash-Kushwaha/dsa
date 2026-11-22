@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0983-minimum-cost-for-tickets) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Matrix
 |  |
 | ------- |
