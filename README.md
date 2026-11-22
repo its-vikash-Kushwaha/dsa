@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 ## Matrix
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0191-number-of-1-bits) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -204,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
