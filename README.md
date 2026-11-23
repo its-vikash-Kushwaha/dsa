@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0371-sum-of-two-integers) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0013-roman-to-integer) |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
