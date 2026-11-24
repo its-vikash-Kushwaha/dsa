@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/its-vikash-Kushwaha/dsa/tree/master/0205-isomorphic-strings) |
 | [2409-count-days-spent-together](https://github.com/its-vikash-Kushwaha/dsa/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/its-vikash-Kushwaha/dsa/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
